@@ -7,6 +7,7 @@ SUBDIRS = \
   pro \
   dtrain \
   latent_svm \
+  feedback_bin \
   mira \
   rampion
 

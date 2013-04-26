@@ -129,6 +129,7 @@ AC_CONFIG_FILES([training/rampion/Makefile])
 AC_CONFIG_FILES([training/minrisk/Makefile])
 AC_CONFIG_FILES([training/mira/Makefile])
 AC_CONFIG_FILES([training/latent_svm/Makefile])
+AC_CONFIG_FILES([training/feedback_bin/Makefile])
 AC_CONFIG_FILES([training/dtrain/Makefile])
 
 # external feature function example code
